@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b1345648523f24b419b4fa4a88041b1a
+timeCreated: 1582649821
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DisposableDroid BB
+  fontNames:
+  - DisposableDroid BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: aefb85125259f0448bc72da1980b8ed7, type: 3}
+  - {fileID: 12800000, guid: 6cc36f451c8178a4c85682ed0eb618d3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
